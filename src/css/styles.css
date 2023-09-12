@@ -1,0 +1,33 @@
+body{
+  background-color: aqua;
+  justify-content: center;
+  text-align: center;
+}
+.btn{
+  background-color:#03a9f4 ;  /* Blue */
+}
+.color{
+  color: red;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto; 
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .container {
+    padding: 10px; 
+  }
+  .form-group {
+    margin-bottom: 10px; 
+  }
+}
+
