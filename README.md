@@ -11,7 +11,7 @@
 * _JAVASCRIPT_
 * _Node/js_
 ## Description
-_ WEATHER API is a website that a quick, simple weather search.The features include the basics, including forecasts, current temperature, hourly forecasts, and more._
+_ WEATHER API is a website that allows a quick, simple weather search.The features include the basics, including forecasts, current temperature, hourly forecasts, and more._
 ## Setup/Installation Requirements
 
 * _Clone this repositoriy to your desktop_ 
